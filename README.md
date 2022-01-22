@@ -1,12 +1,12 @@
-## Hi there! I am Dean an Australian living in Japan.  
+## Hi there! I am Dean, an Australian living in Japan.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeanWThompson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeanWThompson&screen_name=DeanWThompson)
 
-## I am currently an English-Japanese translator and Musician looking to move into Software Engineering. 
+## I am currently working as an English-Japanese translator and Musician, but looking to move into Software Engineering. 
 
 - I’m currently learning SwiftUI and basic web dev (HTML, CSS, and Javascript)
-- 2022 Goals: Release a language learning app on the Apple App Store and create a nice     landing site for it.
-- Fun Fact: Been living in japan for the last 5 years! 
+- 2022 Goals: Release a language learning app on the Apple App Store and create a nice landing site for it.
+- Fun Facts: Been living in japan for the last 5 years.
 
 ### Connect with me:
 
