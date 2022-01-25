@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeanWThompson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeanWThompson&screen_name=DeanWThompson)
 
-## English->Japanese translator/Musician looking to move into software engineering. 
+## Musician/English -> Japanese translator looking to move into software engineering. 
 
 - I’m currently learning SwiftUI and basic web dev (HTML, CSS, and Javascript)
 - 2022 Goals: Release a language learning app on the Apple App Store and create a nice landing site for it.
