@@ -4,7 +4,7 @@
 
 ## Musician/English -> Japanese translator looking to move into software engineering. 
 
-- I’m currently learning SwiftUI and basic web dev (HTML, CSS, and Javascript)
+- I’m currently learning SwiftUI and web dev (HTML, CSS, and Javascript)
 - 2022 Goals: Release a language learning app on the Apple App Store and create a nice landing site for it.
 - Fun Facts: Been living in japan for the last 5 years.
 
