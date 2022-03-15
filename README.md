@@ -4,8 +4,8 @@
 
 ## Musician/English -> Japanese translator studying hard to become an iOS developer. 
 
-- I’m currently learning iOS Dev(SwiftUI/UIKit) and web dev (HTML, CSS, and Javascript)
-- 2022 Goals: Release a language learning app on the Apple App Store and find a job in iOS dev.
+- I’m currently learning iOS Dev(SwiftUI/UIKit) - completed PaulHudson's [100 Days of SwiftUI](https://github.com/thompson-dean/100-Days-of-SwiftUI).
+- 2022 Goals: Release my first app [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app on the Apple App Store and find a job in iOS dev.
 - Fun Facts: Been living in japan for the last 5 years and speak fluent Japanese. 
 
 ### Connect with me:
