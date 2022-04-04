@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeanWThompson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeanWThompson&screen_name=DeanWThompson)
 
-## Musician/English -> Japanese translator studying hard to become an iOS developer. 
+## iOS Developer/ Musician/ English -> Japanese translator. 
 
 - I’m currently learning iOS Dev(SwiftUI/UIKit) - completed PaulHudson's [100 Days of SwiftUI](https://github.com/thompson-dean/100-Days-of-SwiftUI).
 - 2022 Goals: Release my first app [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app on the Apple App Store and find a job in iOS dev.
