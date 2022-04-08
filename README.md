@@ -6,7 +6,7 @@
 
 - I’m currently learning iOS Dev(SwiftUI/UIKit) - completed PaulHudson's [100 Days of SwiftUI](https://github.com/thompson-dean/100-Days-of-SwiftUI).
 - 2022 Goals: Release my first app [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app on the Apple App Store and find a job in iOS dev.
-- Fun Facts: Been living in japan for the last 5 years and speak fluent Japanese. 
+- Fun Facts: Been living in japan for the almost 6 years and speak fluent Japanese. 
 
 ### Connect with me:
 
