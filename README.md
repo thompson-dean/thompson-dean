@@ -1,6 +1,8 @@
 ## Hi there! I am Dean, an Australian living in Japan.  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeanWThompson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeanWThompson&screen_name=DeanWThompson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanwthompson/)
+
 
 ## iOS Developer/ Musician/ English -> Japanese translator. 
 
