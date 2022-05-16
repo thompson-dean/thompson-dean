@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanwthompson/)
 
 
-## iOS Developer/ Musician/ English -> Japanese translator. 
+## iOS Developer/ English -> Japanese translator. 
 
 - Lifelong long learner putting in the hard yards each day to become a better iOS developer (completed PaulHudson's [100 Days of SwiftUI](https://github.com/thompson-dean/100-Days-of-SwiftUI) and 100 Days of Swift.
 - 2022 Goals: Release my first app [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app on the Apple App Store.
