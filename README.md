@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanwthompson/)
 
 
-## iOS Developer/ English -> Japanese translator. 
+## iOS Developer / Ex English -> Japanese translator. 
 
-- Lifelong long learner putting in the hard yards each day to become a better iOS developer (completed PaulHudson's [100 Days of SwiftUI](https://github.com/thompson-dean/100-Days-of-SwiftUI) and 100 Days of Swift.
-- 2022 Goals: Release my first app [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app on the Apple App Store.
-- Also like to play around with Kotlin and Android Studio for fun.
+- Working as an iOS Developer at Arsaga Partners in Tokyo, Japan. 
+- Lifelong learner (Love language learning - Mandarin, Japanese, French, and German)
+- 2022 Goals: Release a poetry reading app called [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app called SenSay (unreleased). Get a job as a junior iOS Dev (Completed!)
 - Fun Facts: Been living in japan for the almost 6 years and speak fluent Japanese. 
 
 ### Connect with me:
