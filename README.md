@@ -8,7 +8,7 @@
 
 - Working as an iOS Developer at Arsaga Partners in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- 2022 Goals: Release a poetry reading app called [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and a language learning app called SenSay (unreleased). Get a job as a junior iOS Dev (Completed!)
+- 2022 Goals: Release a poetry reading app called [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and get a job as a junior iOS Dev (Completed!)
 - Fun Facts: Been living in Japan for the almost 6 years and work as a professional JP -> EN translator on the side. 
 ### Connect with me:
 
