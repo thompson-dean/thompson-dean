@@ -4,11 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanwthompson/)
 
 
-## iOS Developer / Ex Japanese -> English translator. 
+## Mobile Developer / Japanese -> English translator. 
 
 - Working as an iOS Developer at Arsaga Partners in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- 2022 Goals: Release a poetry reading app called [Poetic](https://github.com/thompson-dean/Poetic) (Completed!) and get a job as a junior iOS Dev (Completed!)
+- 2023 Goals: Release [Poetic](https://github.com/thompson-dean/Poetic) on Android.
 - Fun Facts: Been living in Japan for the almost 6 years and work as a professional JP -> EN translator on the side. 
 ### Connect with me:
 
@@ -28,8 +28,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
 
 
 </details>
