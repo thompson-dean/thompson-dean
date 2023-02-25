@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deanwthompson/)
 
 
-## Mobile Developer / Japanese -> English translator. 
+## iOS Developer / Japanese -> English translator. 
 
 - Working as an iOS Developer at Arsaga Partners in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
