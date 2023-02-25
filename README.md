@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/thompson-dean/thompson-dean/blob/master/poetic-banner.jpeg" width="500" alt="Poetic Promo" align="right" />
+<img src="https://github.com/thompson-dean/thompson-dean/blob/master/poetic-banner.jpeg" width="400" alt="Poetic Promo" align="right" />
 </p>
                                                                                                                                           
 ## Hi there! I am Dean, an Australian living in Japan.  
