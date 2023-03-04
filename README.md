@@ -1,4 +1,4 @@
-### Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
+## Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
 
 
 - Currently working at Arsaga Partners in Tokyo, Japan. 
