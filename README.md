@@ -9,8 +9,8 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" />
-  <img alt="UIKit" src="https://img.shields.io/badge/-UIKit-F05138?logo=uikit&logoColor=white" />
-  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-F05138?logo=swiftui&logoColor=white" />
+  <img alt="UIKit" src="https://img.shields.io/badge/-UIKit-F05138?logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-F05138?logo=swift&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=android-studio&logoColor=white" />
