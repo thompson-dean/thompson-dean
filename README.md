@@ -36,8 +36,6 @@
 </p>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thompson-dean&" alt="thompson-dean" />
-
 
 
 
