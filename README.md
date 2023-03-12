@@ -1,5 +1,17 @@
 ## Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
 
+<h3>Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/deanwthompson/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%40Dean Thompson-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/DeanWThompson" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%40DeanWThompson-1DA1F2?logo=twitter&logoColor=white"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-thompson.dean-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 - Currently working at Arsaga Partners in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
@@ -22,18 +34,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/deanwthompson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%40Dean Thompson-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/DeanWThompson" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%40DeanWThompson-1DA1F2?logo=twitter&logoColor=white"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-thompson.dean-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-</p>
+
 
 
 
