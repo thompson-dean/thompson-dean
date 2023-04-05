@@ -2,7 +2,7 @@
 
 - Currently working at Arsaga Partners in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- 2023 Goals: Release [Poetic](https://github.com/thompson-dean/Poetic) on Android.
+- 2023 Goals: Release [Poetic](https://github.com/thompson-dean/Poetic) on Android, and release a language learning app called SenSay. 
 - Fun Facts: Been living in Japan for the almost 6 years and previously worked as a JP -> EN translator. 
 
 <h3>Things I code with</h3>
