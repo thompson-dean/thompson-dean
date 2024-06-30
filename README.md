@@ -1,9 +1,10 @@
-## Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
+## Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
 
-- Currently working at Arsaga Partners in Tokyo, Japan. 
+
+- Currently working at Spacely in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- 2023 Goals: Release [Poetic](https://github.com/thompson-dean/Poetic) on Android, and release a language learning app called SenSay. 
-- Fun Facts: Been living in Japan for the almost 6 years and previously worked as a JP -> EN translator. 
+- 2024 Goals: Release an app to aid music practice, and release a language learning app called SenSay. 
+- Fun Facts: Been living in Japan for the almost 8 years and previously worked as a JP -> EN translator. 
 
 <h3>Things I code with</h3>
 <p>
