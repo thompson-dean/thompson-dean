@@ -3,7 +3,6 @@
 
 - Currently working at Spacely in Tokyo, Japan. 
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- 2025 Goals: Release an app to aid music practice, and release a language learning app called SenSay.
 - Fun Facts: Been living in Japan for the almost 8 years and previously worked as a JP -> EN translator. 
 
 <h3>Things I code with</h3>
