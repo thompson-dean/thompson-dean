@@ -1,9 +1,9 @@
 ## Hi there! I'm Dean - an iOS Developer from Australia, living in Tokyo.
 
 
-- Currently working at Spacely in Tokyo, Japan. 
+- Currently working at SOUNDRAW in Tokyo, Japan, building / maintaining their iOS and macOS apps.
 - Lifelong learner (Love language learning - Mandarin, Japanese, French, and German).
-- Fun Facts: Been living in Japan for the almost 8 years and previously worked as a JP -> EN translator. 
+- Fun Facts: Been living in Japan for the almost 10 years and previously worked as a JP -> EN translator. 
 
 <h3>Things I code with</h3>
 <p>
